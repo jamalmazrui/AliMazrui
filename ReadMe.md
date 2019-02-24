@@ -2,21 +2,19 @@
 
 Distributed by his son, Jamal Ali Mazrui, on February 24, 2019
 
-My father, Ali Al'Amin Mazrui, was a prolific writer and lecturer in political science for half a century until he passed in 2014.  I would like as many of his works as possible to be freely available for review, analysis, and discussion.  At present, most of his writings are copyrighted articles or books.  
+This project is a downloadable collection of writings by the late Ali Al'Amin Mazrui (1933 - 2014), a prolific writer and lecturer in political science for half a century.  The intent is for as many of his works as possible to be freely available for review, analysis, and discussion.
 
-As an initial contribution to the cause, I am sharing a collection of academic essays and biographical newsletters that Professor Mazrui already shared publicly with colleagues and friends via email or the web.  The essays address international topics related to culture and politics.  The newsletters , issued annually, reflect on his professional and family experiences for about thirty years of life based in Ann Arbor, Michigan and Binghamton, New York.  Each file is a PDF with a name corresponding to the title of the document.
+As a contribution to this cause, I am sharing a collection of academic essays and biographical newsletters that Professor Mazrui previously shared publicly with colleagues and friends via email or the web.  The essays address international topics related to culture and politics.  The newsletters , issued annually, reflect on his professional and family experiences for about thirty years of life based in Ann Arbor, Michigan and Binghamton, New York.  Each file is a PDF with a name corresponding to the title of the document.
 
-I invite contributions to this collection by persons who have written or recorded works by my father in their possession, which may be shared without violating intellectual property rights of others.  Newsletters 15 and 16 are missing, so they would be particularly appreciated.
+I invite contributions to this collection by persons who hold written works by my father in their possession (which may be shared without violating intellectual property rights).  Newsletters 15 and 16 are missing from the collection, so they would be particularly appreciated.
 
-I intend that the following license applies to these documents:
-
-[Creative Commons Attribution-NoDerivatives 4.0 International] (CC BY-ND 4.0) (http://creativecommons.org/licenses/by-nd/4.0/)
+I intend that the following license applies to these documents:  [Creative Commons Attribution-NoDerivatives 4.0 International](http://creativecommons.org/licenses/by-nd/4.0/) (CC BY-ND 4.0).
 
 The 74 .pdf files listed below may be opened or downloaded individually from this page:
 
 <http://GitHub.com/JamalMazrui/AliMazrui>
 
-Here are 41 academic essays or summaries:
+Here are 43 academic essays or summaries:
 
 - [Africa between the Baobab Tree and the Owl of Minerva - A Post-Colonial Educational Narrative.pdf](https://GitHub.com/JamalMazrui/AliMazrui/raw/master/Africa%20between%20the%20Baobab%20Tree%20and%20the%20Owl%20of%20Minerva%20-%20A%20Post-Colonial%20Educational%20Narrative.pdf)
 - [Between Heroic Universalism and Parochial Martyrdom - The Life and Death of Christopher Okigbo.pdf](https://GitHub.com/JamalMazrui/AliMazrui/raw/master/Between%20Heroic%20Universalism%20and%20Parochial%20Martyrdom%20-%20The%20Life%20and%20Death%20of%20Christopher%20Okigbo.pdf)
@@ -62,7 +60,7 @@ Here are 41 academic essays or summaries:
 - [Water In a Triple Heritage Perspective - Indigenous, Islamic and Western Legacies.pdf](https://GitHub.com/JamalMazrui/AliMazrui/raw/master/Water%20In%20a%20Triple%20Heritage%20Perspective%20-%20Indigenous,%20Islamic%20and%20Western%20Legacies.pdf)
 - [What's in a Name.pdf](https://GitHub.com/JamalMazrui/AliMazrui/raw/master/What's%20in%20a%20Name.pdf)
 
-Here are 33 personal newsletters:
+Here are 31 biographical newsletters:
 
 - [Newsletter 01, Last Week of 1979.pdf](https://GitHub.com/JamalMazrui/AliMazrui/raw/master/Newsletter%2001,%20Last%20Week%20of%201979.pdf)
 - [Newsletter 02, January 1980.pdf](https://GitHub.com/JamalMazrui/AliMazrui/raw/master/Newsletter%2002,%20January%201980.pdf)
