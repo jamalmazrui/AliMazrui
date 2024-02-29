@@ -1,10 +1,10 @@
 # Ali Mazrui Sharable Collection
 
-Distributed by his son, Jamal Ali Mazrui, on February 24, 2023 (commemorating 90th birthday)
+Distributed by his son, Jamal Ali Mazrui, in commemoration of the 90th birthday (February 24, 2023).
 
-This project is a downloadable collection of writings by the late Ali Al'Amin Mazrui (1933 - 2014), a prolific writer and lecturer in political science for half a century.  The intent is for as many of his works as possible to be freely available for review, analysis, and discussion.
+This project is a downloadable collection of writings -- either by or about -- the late Ali Al'Amin Mazrui (1933 - 2014), a prolific writer and lecturer in political science for half a century.  The intent is for as many of his writings as possible to be freely available for review, analysis, and discussion.  The biographical documents share information about his professional and personal life.
 
-I am sharing a collection of academic essays and biographical newsletters that Professor Mazrui previously shared publicly with colleagues and friends via email or the web.  The essays address international topics related to culture and politics.  The newsletters , issued annually, reflect on his professional and family experiences for about thirty years of life, based in Ann Arbor, Michigan and in Binghamton, New York.  Each file is a PDF with a name corresponding to the title of the document.
+During his life, Professor Mazrui publicly shared these essays and newsletters with colleagues and friends, via email or the web.  The essays address international topics related to culture and politics.  The newsletters , issued annually, reflect on his professional and family experiences for about thirty years of life, based in Ann Arbor, Michigan and in Binghamton, New York.  Each file is a PDF with a name corresponding to the title of the document.
 
 I invite contributions to this collection by persons who hold written works by my father in their possession (which may be shared without violating intellectual property rights).  Newsletters 15 and 16 are missing from the collection, so they would be particularly appreciated.
 
