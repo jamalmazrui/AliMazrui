@@ -1,4 +1,4 @@
-# Ali Mazrui Sharable Collection
+﻿# Ali Mazrui Sharable Collection
 
 Distributed by his son, Jamal Ali Mazrui.
 
